@@ -1,0 +1,11 @@
+zebra-ufo-andorid/bin/
+zebra-ufo-android/gen/
+bin/
+war/
+target/
+*~
+.metadata
+.gwt/
+zebra-drop-keystore
+*.apk
+zebraUFO.jar

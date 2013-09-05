@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.jthtml.zufo.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../zebra-ufo-android/assets"/>
+    <inherits name="ZebraUfoGame"/>
+    <inherits name="aurelienribon.bodyeditorloader"/>
+    <inherits name="aurelienribon.tweenengine"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
